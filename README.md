@@ -1,9 +1,10 @@
-# My Awesome Project
+# My Portfolio
+
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://brendondsouza.com
 
-![alt tag](http://placecorgi.com/1200/650)
+<img align="center" src="https://github.com/brendondsouza/brendondsouza/blob/main/assets/portfolio.gif" alt="my portfolio"/>
 
 ## How It's Made:
 
@@ -20,13 +21,35 @@ You don't have to include this section but interviewers *love* that you can not 
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## Other projects:
+Take a look at some of my other projects:
 
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/brendondsouza/The-Office">"That's What She Said"</a>
+        <br />
+      <a target="_blank" href="https://github.com/brendondsouza/The-Office">
+            <img src="https://github.com/brendondsouza/brendondsouza/blob/main/assets/office.gif" width="100%"  alt="the office app"/>
+        </a>
+    </td>
+     <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/brendondsouza/nasa-apod">NASA Picture of the Day</a>
+        <br />
+        <a target="_blank" href="https://github.com/brendondsouza/nasa-apod">
+          <img src="https://github.com/brendondsouza/brendondsouza/blob/main/assets/nasa.gif" width="100%" alt="nasa apod"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/brendondsouza/The-Office">Jeopard-ish! the Game</a>
+      <br />
+        <a target="_blank" href="https://github.com/brendondsouza/Jeopardy-Game">
+          <img src="https://github.com/brendondsouza/brendondsouza/blob/main/assets/jeopardy.gif" width="100%" alt="jeopardy game"/>
+        </a>
+    </td>
+   
+  </tr>
+</table>
 
 
